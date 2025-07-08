@@ -1,0 +1,2 @@
+python-3.6.12
+use flask --app app run command
